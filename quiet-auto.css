@@ -1,0 +1,9 @@
+/*
+  theme-title: Quiet (auto)
+  theme-description: Calm single-column timeline that follows your system light/dark setting
+*/
+
+@import url("quiet-dark.css");
+
+@import url("quiet-light.css") screen and (prefers-color-scheme: light);
+@import url("quiet-dark.css") screen and (prefers-color-scheme: dark);
