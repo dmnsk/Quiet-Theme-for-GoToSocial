@@ -4,7 +4,7 @@ A calm, single-column timeline theme for [GoToSocial](https://gotosocial.org) wi
 
 ## Preview
 
-![Quiet theme in light and dark mode](quiet-mockup.png)
+![Quiet theme in light and dark mode](preview.png)
 
 See it live on my [GoToSocial instance](https://social.domanske.de).
 
