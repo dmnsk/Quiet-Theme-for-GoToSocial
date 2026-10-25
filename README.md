@@ -11,7 +11,8 @@ See it live on my [GoToSocial instance](https://social.domanske.de).
 ## Features
 
 * Automatic light and dark mode, following device settings
-* Responsive layout
+* Responsive layout, optimized media view
+* Indicator for ALT-Texts
 * Uses GoToSocial's built-in icon font
 
 ## Compatibility
