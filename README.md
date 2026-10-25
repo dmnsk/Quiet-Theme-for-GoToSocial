@@ -1,10 +1,12 @@
 # Quiet
 
-A calm, single-column timeline theme for [GoToSocial](https://gotosocial.org) with fine dividers. For quiet sloths. 🦥
+A calm, single-column timeline theme for [GoToSocial](https://gotosocial.org) with fine dividers. Inspired by [Ivory](https://tapbots.com/ivory/), Threads and Bluesky. For quiet sloths. 🦥
 
 ## Preview
 
 ![Quiet theme in light and dark mode](quiet-mockup.png)
+
+Try live on my [GTS instance](https://social.domanske.de).
 
 ## Features
 
