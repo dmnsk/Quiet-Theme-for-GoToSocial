@@ -10,7 +10,7 @@ See it live on my [GoToSocial instance](https://social.domanske.de).
 
 ## Features
 
-* Automatic light and dark mode, following your device settings
+* Automatic light and dark mode, following device settings
 * Responsive layout
 * Uses GoToSocial's built-in icon font
 
